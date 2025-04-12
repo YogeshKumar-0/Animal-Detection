@@ -1,0 +1,5 @@
+train: tiger_dataset/images/train
+val: tiger_dataset/images/val
+
+nc: 1
+names: ['tiger']

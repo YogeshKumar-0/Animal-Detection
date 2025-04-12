@@ -1,0 +1,4 @@
+train: C:/Users/YOGESH/yolov5/data/animals/tiger dataset/train
+val: C:/Users/YOGESH/yolov5/data/animals/tiger dataset/valid
+nc: 1  
+names: ['tiger']
